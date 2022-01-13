@@ -27,7 +27,13 @@ Here u can find all the osu!droid skins i use (updating avery time)
 **FlyingDeGozaru**
 
 [Download](https://www.mediafire.com/file/e8q45ifom78aj31/FlyingDeGozaru.zip/file)
-
+![](https://cdn.discordapp.com/attachments/736978024817229955/924618268260589569/Screenshot_20211226-185550.jpg)
+![](https://cdn.discordapp.com/attachments/736978024817229955/924618268004732938/Screenshot_20211226-185617.jpg)
+![](https://cdn.discordapp.com/attachments/736978024817229955/924618267782443028/Screenshot_20211226-185643.jpg)
+![](https://cdn.discordapp.com/attachments/736978024817229955/924618267170078780/Screenshot_20211226-190015.jpg)
+![](https://cdn.discordapp.com/attachments/736978024817229955/924618266947776532/Screenshot_20211226-190024.jpg)
+![](https://cdn.discordapp.com/attachments/736978024817229955/924618267589492736/Screenshot_20211226-190001.jpg)
+![](https://cdn.discordapp.com/attachments/736978024817229955/924618267358797864/Screenshot_20211226-190007.jpg)
 
 **My Custom Mixed Skin**
 
