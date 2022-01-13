@@ -3,7 +3,7 @@ Here u can find all the osu!droid skins i use (updating avery time)
 
 **BTMC ⌞Freedom Dive⌝**
 
-!(https://cdn.discordapp.com/attachments/670681343046320128/832538698813145118/Screenshot_20210416_163650.png)
+![img](https://cdn.discordapp.com/attachments/670681343046320128/832538698813145118/Screenshot_20210416_163650.png)
 
 https://www.mediafire.com/download/36utnpus7sn6tjt
 
