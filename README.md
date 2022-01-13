@@ -5,7 +5,7 @@ Here u can find all the osu!droid skins i use (updating avery time)
 
 pic
 
-link
+https://www.mediafire.com/download/36utnpus7sn6tjt
 
 
 **Bacon Boi 1.0**
