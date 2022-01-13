@@ -23,6 +23,13 @@ Here u can find all the osu!droid skins i use (updating avery time)
 
 [Download](http://www.mediafire.com/folder/92ymqafw9wh55/-_《CK》_Bacon_boi_1.0)
 
+![](https://cdn.discordapp.com/attachments/670681343046320128/780002649433047070/Screenshot_20201121-173621_osudroid.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/780002649780387870/Screenshot_20201121-173926_osudroid-debug.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/780002649189515274/Screenshot_20201121-175734_Permission_controller.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/780002650116194304/Screenshot_20201121-174011_osudroid-debug.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/780002650396819466/Screenshot_20201121-174028_osudroid-debug.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/780002651093598218/Screenshot_20201122-161546_osudroid-debug.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/780002651319697418/Screenshot_20201122-132637_osudroid-debug.jpg)
 
 **FlyingDeGozaru**
 
