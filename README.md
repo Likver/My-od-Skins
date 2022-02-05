@@ -45,8 +45,9 @@ Here u can find all the osu!droid skins i use (updating avery time)
 
 **Seoul v9 (Shigetora/Kookiezi skin)**
 
-[Storage Friendly - 28mb](https://www.mediafire.com/file/rs585gds5dk09m5/Seoul_v9_%28Shigetora_Cookiezi_skin%29_%5BStarS_Fix-light-%5D.zip/file)
-[Original applause/fail - 94mb](http://www.mediafire.com/file/kymplyfxq155oto/Seoul_v9_%2528Shigetora_Cookiezi_skin%2529_%255BStarS_Fix%255D.zip/file)
+[(Storage Friendly - 28mb)](https://www.mediafire.com/file/rs585gds5dk09m5/Seoul_v9_%28Shigetora_Cookiezi_skin%29_%5BStarS_Fix-light-%5D.zip/file)
+
+[(Original applause/fail - 94mb)](http://www.mediafire.com/file/kymplyfxq155oto/Seoul_v9_%2528Shigetora_Cookiezi_skin%2529_%255BStarS_Fix%255D.zip/file)
 
 ![](https://cdn.discordapp.com/attachments/670681343046320128/671679375829106708/IMG-20200128-WA0082.jpg)
 ![](https://cdn.discordapp.com/attachments/670681343046320128/671679376043147275/IMG-20200128-WA0074.jpg)
