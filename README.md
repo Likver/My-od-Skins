@@ -43,17 +43,18 @@ Here u can find all the osu!droid skins i use (updating avery time)
 ![](https://cdn.discordapp.com/attachments/736978024817229955/924618267589492736/Screenshot_20211226-190001.jpg)
 ![](https://cdn.discordapp.com/attachments/736978024817229955/924618267358797864/Screenshot_20211226-190007.jpg)
 
-**name**
-[Storage Friendly - 28mb] (https://www.mediafire.com/file/rs585gds5dk09m5/Seoul_v9_%28Shigetora_Cookiezi_skin%29_%5BStarS_Fix-light-%5D.zip/file)
-[Original applause/fail - 94mb] (http://www.mediafire.com/file/kymplyfxq155oto/Seoul_v9_%2528Shigetora_Cookiezi_skin%2529_%255BStarS_Fix%255D.zip/file)
+**Seoul v9 (Shigetora/Kookiezi skin)**
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+[Storage Friendly - 28mb](https://www.mediafire.com/file/rs585gds5dk09m5/Seoul_v9_%28Shigetora_Cookiezi_skin%29_%5BStarS_Fix-light-%5D.zip/file)
+[Original applause/fail - 94mb](http://www.mediafire.com/file/kymplyfxq155oto/Seoul_v9_%2528Shigetora_Cookiezi_skin%2529_%255BStarS_Fix%255D.zip/file)
+
+![](https://cdn.discordapp.com/attachments/670681343046320128/671679375829106708/IMG-20200128-WA0082.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/671679376332685342/IMG-20200128-WA0073.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/671679376525361152/IMG-20200128-WA0072.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/671679376936534016/IMG-20200128-WA0071.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/671679377217683506/IMG-20200128-WA0070.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/671679377464885278/IMG-20200128-WA0069.jpg)
+![](https://cdn.discordapp.com/attachments/670681343046320128/671679377754423297/IMG-20200128-WA0068.jpg)
 ![]()
 
 **My Custom Mixed Skin**
