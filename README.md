@@ -1,5 +1,5 @@
 # My-od-Skins
-Here u can find all the osu!droid skins i use (updating avery time)
+Here u can find all the osu!droid skins i use (updating every time i use a new one)
 
 >All of this skins are uploaded on the [osu!droid Skins Server](https://discord.gg/7w5dASD4ta) on Discord, check the community skins uploaded there :)
 
